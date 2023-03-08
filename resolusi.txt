@@ -2,4 +2,5 @@ Ini adalah resolusi saya
 - Lulus tepat waktu
 -  Advanced dalam satu bahasa Pemrograman
 - Bisa membuat program backend
-- Lebih jago dalam Frontend
+
+- Haloo
